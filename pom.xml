@@ -51,7 +51,7 @@
         <artifactId>javafx-maven-plugin</artifactId>
         <version>0.0.8</version>
         <configuration>
-            <mainClass>ticTacToe.TicTacToe</mainClass>
+            <mainClass>org.project.TicTacToe</mainClass>
         </configuration>
     </plugin>
 </plugins>
